@@ -35,6 +35,6 @@ if my_dataframe:
         except:
             st.write('Something went wrong.')
 else:
-    SMOOTHIES.PUBLIC."I3HPCQVJA0VXEMEZ (Stage)"SMOOTHIES.PUBLIC."I3HPCQVJA0VXEMEZ (Stage)"SMOOTHIES.PUBLIC."I3HPCQVJA0VXEMEZ (Stage)"st.success('There are no pending orders right now',icon="👍" )
+    SMOOTHIES.PUBLIC.st.success('There are no pending orders right now',icon="👍" )
         
 
